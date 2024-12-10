@@ -1,4 +1,7 @@
+
 'use client'
+/* eslint-disable react/no-unescaped-entities */
+
 import React from "react";
 
 import Image from "next/image";
@@ -431,9 +434,9 @@ export default function Home() {
               ></Image>
             </div>
             <p className="w-[300px] text-[16px] mt-2">
-              "I'm blown away by the quality and style of the clothes I received
+              "I&apos;m blown away by the quality and style of the clothes I received
               from Shop.co. From casual wear to elegant dresses, every piece
-              I've bought has exceeded my expectations.”
+              I&apos;ve bought has exceeded my expectations.”
             </p>
           </div>
 
@@ -457,9 +460,9 @@ export default function Home() {
               ></Image>
             </div>
             <p className="w-[300px] text-[16px] mt-2">
-              "I'm blown away by the quality and style of the clothes I received
+              "I&apos;m blown away by the quality and style of the clothes I received
               from Shop.co. From casual wear to elegant dresses, every piece
-              I've bought has exceeded my expectations.”
+              I&apos;ve bought has exceeded my expectations.”
             </p>
           </div>
 
@@ -483,9 +486,9 @@ export default function Home() {
               ></Image>
             </div>
             <p className="w-[300px] text-[16px] mt-2">
-              "I'm blown away by the quality and style of the clothes I received
+              "I&apos;m blown away by the quality and style of the clothes I received
               from Shop.co. From casual wear to elegant dresses, every piece
-              I've bought has exceeded my expectations.”
+              I&apos;ve bought has exceeded my expectations.”
             </p>
           </div>
         </div>
